@@ -9,7 +9,7 @@ pkg install git
 
 pip install requests
 
-git clone https://github.com/noobboss1/N00B-BOMBER
+git clone https://github.com/noobboss1/N00B-B0MBER
 
 cd N00B-B0MBER
 
