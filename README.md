@@ -1,4 +1,4 @@
-# N00B-BOMBER
+# N00B-B0MBER
 This Tools not illegal Activity...use for fun
 
 pkg install python
